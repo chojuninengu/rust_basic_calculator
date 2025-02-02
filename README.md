@@ -17,7 +17,7 @@ Thats good, so you will then need to execute the startup script from above using
 ```bash
 ./start.sh
 ```
-The startup script will create the container and then enter into the container, from there, you can then run this command to run the script
+The startup script will create the container and then enter into the container, from there, you can then run this command to run the script 
 ```bash
 cargo run
 ```
